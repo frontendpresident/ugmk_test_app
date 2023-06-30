@@ -1,0 +1,9 @@
+.wrapper {
+  border: 1px solid black;
+  background-color: white;
+  padding: 8px;
+}
+
+.factory {
+  font-size: 12px;
+}
